@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/**<summary>
+
+</summayr>*/
 public class BlockBlue : MonoBehaviour {
 
 	// Use this for initialization
