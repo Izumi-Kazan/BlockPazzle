@@ -49,6 +49,9 @@
      <Compile Include="Assets\Script\BlockBlue.cs" />
      <Compile Include="Assets\Script\BlockGreen.cs" />
      <Compile Include="Assets\Script\BlockRed.cs" />
+     <Compile Include="Assets\Script\BringUIText.cs" />
+     <Compile Include="Assets\Script\DropZone.cs" />
+     <Compile Include="Assets\Script\GameController.cs" />
      <Compile Include="Assets\iTweenEditor\Examples\StartAndStopTween.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\EventParamMappings.cs" />
      <Compile Include="Assets\iTweenEditor\Helper Classes\Vector3OrTransform.cs" />
